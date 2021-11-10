@@ -5,4 +5,4 @@ Hey! Welcome to the more optimised (for me) version of my old tic-tac-toe game! 
 
 
 
-v0.2.1
+tic-tac-toe v0.2.1
